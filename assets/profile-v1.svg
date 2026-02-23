@@ -64,7 +64,7 @@
         filter="url(#strongGlow)"
         stroke-dasharray="900"
         stroke-dashoffset="900">
-    Amir Mohammad
+    ȺʍìɾⱮօհąʍʍąժ
     <animate attributeName="stroke-dashoffset" from="900" to="0" dur="2.5s" fill="freeze"/>
   </text>
 
@@ -75,7 +75,7 @@
         fill="url(#textGrad)"
         opacity="0"
         filter="url(#strongGlow)">
-    Amir Mohammad
+    ȺʍìɾⱮօհąʍʍąժ
     <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.6s" fill="freeze"/>
     <animate attributeName="opacity" values="1;0.7;1" dur="1.6s" repeatCount="indefinite" begin="3s"/>
   </text>
